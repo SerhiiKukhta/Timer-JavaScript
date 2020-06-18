@@ -1,2 +1,2 @@
 # Timer-JavaScript
-Timer JavaScript
+Timer
